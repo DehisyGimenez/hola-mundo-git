@@ -1,1 +1,1 @@
-console ="Hola mundo";                                                                      
+let nombre ="Juan Perez";                                                                     
