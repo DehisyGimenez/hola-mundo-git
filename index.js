@@ -9,5 +9,5 @@ function calcularEdad(anioNacimiento){
 }
 
 function calcularSalario(horasTrabajodas, motoPorHoras){
-    return horasTrabajodas * motoPorHoras;
+    return horasTrabajodas * montoPorHoras;
 }
