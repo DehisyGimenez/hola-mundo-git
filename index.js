@@ -8,6 +8,6 @@ function calcularEdad(anioNacimiento){
     return new Date().getFullYear() - anioNacimiento;
 }
 
-function calcularSalario(horasTrabajodas, motoPorHoras){
+function calcularSalario(horasTrabajodas, montoPorHoras){
     return horasTrabajodas * montoPorHoras;
 }
